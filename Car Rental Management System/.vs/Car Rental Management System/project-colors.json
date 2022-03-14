@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "487ff7ee-4e26-4fdc-ac00-a368c9dd6b5f": {
+      "ProjectGuid": "487ff7ee-4e26-4fdc-ac00-a368c9dd6b5f",
+      "DisplayName": "Car Rental Management System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
